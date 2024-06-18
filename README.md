@@ -7,8 +7,8 @@ Please join us on the Quantum Challenge Discord
 
 To earn your credly badge you need to have finished the following labs:
 
-Lab 0
-Lab 1
-Lab 2
-One of the three graded Lab 3 notebooks (AI Transpiler, Circuit Knitting Toolbox, Serverless)
-Lab 4
+ # Lab 0
+ # Lab 1
+ # Lab 2
+ # One of the three graded Lab 3 notebooks (AI Transpiler, Circuit Knitting Toolbox, Serverless)
+ # Lab 4
