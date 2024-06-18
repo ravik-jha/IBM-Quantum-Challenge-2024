@@ -12,3 +12,6 @@ To earn your credly badge you need to have finished the following labs:
  # Lab 2
  # One of the three graded Lab 3 notebooks (AI Transpiler, Circuit Knitting Toolbox, Serverless)
  # Lab 4
+
+
+Original creators: IBM Qiskit team. 
